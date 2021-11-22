@@ -21,7 +21,8 @@
     "downlevelIteration": true,
     "noImplicitReturns": true,
     "noUncheckedIndexedAccess": true,
-    "baseUrl": "src"
+    "baseUrl": "src",
+    "incremental": true
   },
   "include": [
     "src",
