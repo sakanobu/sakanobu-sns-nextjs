@@ -22,7 +22,8 @@
     "react-hooks",
     "jest",
     "testing-library",
-    "jest-dom"
+    "jest-dom",
+    "tailwindcss"
   ],
   "extends": [
     "eslint:recommended",
@@ -39,6 +40,7 @@
     "plugin:jest/all",
     "plugin:testing-library/react",
     "plugin:jest-dom/recommended",
+    "plugin:tailwindcss/recommended",
     "prettier"
   ],
   "ignorePatterns": [
